@@ -1,0 +1,7 @@
+id=ksu_cycle
+name=cycle faker 
+version=v1 (3022)
+versionCode=3022
+author=Mimo 
+description=A ksu module to fake battery cycle for pixel devices
+banner=banner.png
